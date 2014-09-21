@@ -1,0 +1,35 @@
+１．負荷テストでのメモリリーク確認
+
+OutOfMemoryErrorを未然に防ぐために、負荷テスト時にGCログを収集して考察することで、
+Javaヒープメモリ枯渇の兆候がないかを確認する。
+
+■GCログを収集するJava起動オプション
+
+-Xloggc:/var/log/java/gc_%p_%t.log
+-XX:+PrintGCDetails -XX:+PrintGCDateStamps
+-XX:+UseGCLogFileRotation -XX:NumberOfGCLogFiles=5 -XX:GCLogFileSize=10M
+
+  ①GCログの出力先ファイル名。JDK8より%pでプロセス名、%tで日時をファイル名に含めることが可能
+  ②より詳細なGC情報をロギングする
+  ③GCの発生日時をログに含める
+  ④GCログファイルのサイズローテーション有効化（JDK 6u34/JDK 7u2から）
+  ⑤ローテーション有効時の管理世代数
+  ⑥ローテーション契機のファイルサイズ
+
+
+■GCログ読み込みツール「GCViewer」
+
+http://github.com/chewiebug/GCViewer
+
+２．OutOfMemoryError発生時の原因解析
+
+Javaヒープメモリの状態をバイナリ形式で一括出力したヒープダンプを収集し、
+原因を特定できるようにする。
+
+■OutOfMemoryError発生時にヒープダンプを自動出力するJava起動オプション
+
+-XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/var/log/java
+
+■ヒープダンプ解析ツール「Eclipse Memory Analyzer」
+
+http://www.eclipse.org/mat
