@@ -1,27 +1,27 @@
 http://msysgit.github.io/
 
-�X�^�[�g���j���[���� Git Bash �����s���܂��B
-���ꂩ�� Git �̐ݒ���s���܂��B�ݒ�̓R�}���h���C���Ŏ��s���܂��B
-���ݒ�̓��e�ɂ��Ă͐������܂��� Git �𗘗p���邽�߂ɕK�v�Ȏ菇�Ƃ��Ĉȉ������s���܂��B
+スタートメニューから Git Bash を実行します。
+これから Git の設定を行います。設定はコマンドラインで実行します。
+環境設定の内容については説明しませんが Git を利用するために必要な手順として以下を実行します。
 
-Git �̓R�~�b�g���Ƀ��[�U���ƃ��[���A�h���X���L�^���܂��B
-���̐ݒ�͕K�{�ł��B���������p���郁�[���A�h���X�Ɩ��O��ݒ肵�܂��B
+Git はコミット時にユーザ名とメールアドレスを記録します。
+この設定は必須です。自分が利用するメールアドレスと名前を設定します。
 
-    user.email ... �R�~�b�g���ɗ��p����郁�[���A�h���X
-    user.name ... �R�~�b�g���ɗ��p����閼�O
+    user.email ... コミット時に利用されるメールアドレス
+    user.name ... コミット時に利用される名前
 
-git config --global user.email "���[���A�h���X"
-git config --global user.name "���[�U��"
+git config --global user.email "メールアドレス"
+git config --global user.name "ユーザ名"
 
-���{��̕��������΍�Őݒ肵�܂��B
+日本語の文字化け対策で設定します。
 
 git config --global core.quotepath false
 
-���s�R�[�h�� Git �������ϊ����邱�Ƃ𖳌��ɂ��܂��B
+改行コードを Git が自動変換することを無効にします。
 
 git config --global core.autocrlf false
 
-push �R�}���h���Ƀu�����`����^�O�����w�肵�Ȃ��ꍇ�̕W�������ݒ肵�܂��B�i���S�̂��߁j
+push コマンド時にブランチ名やタグ名を指定しない場合の標準動作を設定します。（安全のため）
 
 git config --global push.default upstream
 

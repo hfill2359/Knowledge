@@ -1,35 +1,35 @@
-‚PD•‰‰×ƒeƒXƒg‚Å‚Ìƒƒ‚ƒŠƒŠ[ƒNŠm”F
+ï¼‘ï¼Žè² è·ãƒ†ã‚¹ãƒˆã§ã®ãƒ¡ãƒ¢ãƒªãƒªãƒ¼ã‚¯ç¢ºèª
 
-OutOfMemoryError‚ð–¢‘R‚É–h‚®‚½‚ß‚ÉA•‰‰×ƒeƒXƒgŽž‚ÉGCƒƒO‚ðŽûW‚µ‚ÄlŽ@‚·‚é‚±‚Æ‚ÅA
-Javaƒq[ƒvƒƒ‚ƒŠŒÍŠ‰‚Ì’›Œó‚ª‚È‚¢‚©‚ðŠm”F‚·‚éB
+OutOfMemoryErrorã‚’æœªç„¶ã«é˜²ããŸã‚ã«ã€è² è·ãƒ†ã‚¹ãƒˆæ™‚ã«GCãƒ­ã‚°ã‚’åŽé›†ã—ã¦è€ƒå¯Ÿã™ã‚‹ã“ã¨ã§ã€
+Javaãƒ’ãƒ¼ãƒ—ãƒ¡ãƒ¢ãƒªæž¯æ¸‡ã®å…†å€™ãŒãªã„ã‹ã‚’ç¢ºèªã™ã‚‹ã€‚
 
-¡GCƒƒO‚ðŽûW‚·‚éJava‹N“®ƒIƒvƒVƒ‡ƒ“
+â– GCãƒ­ã‚°ã‚’åŽé›†ã™ã‚‹Javaèµ·å‹•ã‚ªãƒ—ã‚·ãƒ§ãƒ³
 
 -Xloggc:/var/log/java/gc_%p_%t.log
 -XX:+PrintGCDetails -XX:+PrintGCDateStamps
 -XX:+UseGCLogFileRotation -XX:NumberOfGCLogFiles=5 -XX:GCLogFileSize=10M
 
-  ‡@GCƒƒO‚Ìo—Íæƒtƒ@ƒCƒ‹–¼BJDK8‚æ‚è%p‚ÅƒvƒƒZƒX–¼A%t‚Å“úŽž‚ðƒtƒ@ƒCƒ‹–¼‚ÉŠÜ‚ß‚é‚±‚Æ‚ª‰Â”\
-  ‡A‚æ‚èÚ×‚ÈGCî•ñ‚ðƒƒMƒ“ƒO‚·‚é
-  ‡BGC‚Ì”­¶“úŽž‚ðƒƒO‚ÉŠÜ‚ß‚é
-  ‡CGCƒƒOƒtƒ@ƒCƒ‹‚ÌƒTƒCƒYƒ[ƒe[ƒVƒ‡ƒ“—LŒø‰»iJDK 6u34/JDK 7u2‚©‚çj
-  ‡Dƒ[ƒe[ƒVƒ‡ƒ“—LŒøŽž‚ÌŠÇ—¢‘ã”
-  ‡Eƒ[ƒe[ƒVƒ‡ƒ“Œ_‹@‚Ìƒtƒ@ƒCƒ‹ƒTƒCƒY
+  â‘ GCãƒ­ã‚°ã®å‡ºåŠ›å…ˆãƒ•ã‚¡ã‚¤ãƒ«åã€‚JDK8ã‚ˆã‚Š%pã§ãƒ—ãƒ­ã‚»ã‚¹åã€%tã§æ—¥æ™‚ã‚’ãƒ•ã‚¡ã‚¤ãƒ«åã«å«ã‚ã‚‹ã“ã¨ãŒå¯èƒ½
+  â‘¡ã‚ˆã‚Šè©³ç´°ãªGCæƒ…å ±ã‚’ãƒ­ã‚®ãƒ³ã‚°ã™ã‚‹
+  â‘¢GCã®ç™ºç”Ÿæ—¥æ™‚ã‚’ãƒ­ã‚°ã«å«ã‚ã‚‹
+  â‘£GCãƒ­ã‚°ãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚µã‚¤ã‚ºãƒ­ãƒ¼ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³æœ‰åŠ¹åŒ–ï¼ˆJDK 6u34/JDK 7u2ã‹ã‚‰ï¼‰
+  â‘¤ãƒ­ãƒ¼ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³æœ‰åŠ¹æ™‚ã®ç®¡ç†ä¸–ä»£æ•°
+  â‘¥ãƒ­ãƒ¼ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³å¥‘æ©Ÿã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚µã‚¤ã‚º
 
 
-¡GCƒƒO“Ç‚Ýž‚Ýƒc[ƒ‹uGCViewerv
+â– GCãƒ­ã‚°èª­ã¿è¾¼ã¿ãƒ„ãƒ¼ãƒ«ã€ŒGCViewerã€
 
 http://github.com/chewiebug/GCViewer
 
-‚QDOutOfMemoryError”­¶Žž‚ÌŒ´ˆö‰ðÍ
+ï¼’ï¼ŽOutOfMemoryErrorç™ºç”Ÿæ™‚ã®åŽŸå› è§£æž
 
-Javaƒq[ƒvƒƒ‚ƒŠ‚Ìó‘Ô‚ðƒoƒCƒiƒŠŒ`Ž®‚ÅˆêŠ‡o—Í‚µ‚½ƒq[ƒvƒ_ƒ“ƒv‚ðŽûW‚µA
-Œ´ˆö‚ð“Á’è‚Å‚«‚é‚æ‚¤‚É‚·‚éB
+Javaãƒ’ãƒ¼ãƒ—ãƒ¡ãƒ¢ãƒªã®çŠ¶æ…‹ã‚’ãƒã‚¤ãƒŠãƒªå½¢å¼ã§ä¸€æ‹¬å‡ºåŠ›ã—ãŸãƒ’ãƒ¼ãƒ—ãƒ€ãƒ³ãƒ—ã‚’åŽé›†ã—ã€
+åŽŸå› ã‚’ç‰¹å®šã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ã€‚
 
-¡OutOfMemoryError”­¶Žž‚Éƒq[ƒvƒ_ƒ“ƒv‚ðŽ©“®o—Í‚·‚éJava‹N“®ƒIƒvƒVƒ‡ƒ“
+â– OutOfMemoryErrorç™ºç”Ÿæ™‚ã«ãƒ’ãƒ¼ãƒ—ãƒ€ãƒ³ãƒ—ã‚’è‡ªå‹•å‡ºåŠ›ã™ã‚‹Javaèµ·å‹•ã‚ªãƒ—ã‚·ãƒ§ãƒ³
 
 -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/var/log/java
 
-¡ƒq[ƒvƒ_ƒ“ƒv‰ðÍƒc[ƒ‹uEclipse Memory Analyzerv
+â– ãƒ’ãƒ¼ãƒ—ãƒ€ãƒ³ãƒ—è§£æžãƒ„ãƒ¼ãƒ«ã€ŒEclipse Memory Analyzerã€
 
 http://www.eclipse.org/mat

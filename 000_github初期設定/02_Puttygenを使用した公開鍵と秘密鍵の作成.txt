@@ -1,26 +1,26 @@
-C:\repo\puttykey �t�H���_���쐬���܂��B
+C:\repo\puttykey フォルダを作成します。
 
-TortoiseGit���C���X�g�[�����Ă���Έꏏ��
-Puttygen���C���X�g�[������Ă���͂��Ȃ̂ŁA�N�����܂��B
+TortoiseGitをインストールしていれば一緒に
+Puttygenがインストールされているはずなので、起動します。
 
-SSH2-RSA���I������Ă���̂��m�F���AGenerate���N���b�N���܂��B
+SSH2-RSAが選択されているのを確認し、Generateをクリックします。
 
-�Q�[�W�����^���ɂȂ�܂ŐԂ��g�̒��Ń}�E�X�𓮂����܂��B
+ゲージが満タンになるまで赤い枠の中でマウスを動かします。
 
-�Q�[�W�����^���ɂȂ�����Asave private key���N���b�N���܂��B
-�Z�L�����e�B�I�Ȃ��Ƃ��l�������Key passphrase��Confirm passphrase�Ƀp�X���[�h����͂��Ă���
-save private key���N���b�N��������ǂ��ł����Apush���邽�тɃp�X���[�h���͂��K�v�ɂȂ�悤�ł��B
-passphrase��Confirm passphrase�͋󔒂̂܂�save private key���N���b�N���Ă����ʂɓ����܂����A
-push����Ƃ��Ƀp�X���[�h���͂̎�Ԃ��Ȃ��܂��B
+ゲージが満タンになったら、save private keyをクリックします。
+セキュリティ的なことを考慮するとKey passphraseとConfirm passphraseにパスワードを入力してから
+save private keyをクリックする方が良いですが、pushするたびにパスワード入力が必要になるようです。
+passphraseとConfirm passphraseは空白のままsave private keyをクリックしても普通に動きますし、
+pushするときにパスワード入力の手間が省けます。
 
-C:\repo\puttykey �t�H���_�Ɂuid_rsa.ppk�v�Ƃ������O�Ńt�@�C����ۑ����܂��B
+C:\repo\puttykey フォルダに「id_rsa.ppk」という名前でファイルを保存します。
 
-�c�[����ʓ���ssh-rsa�`�`�̕�������R�s�[���܂��B
+ツール画面内のssh-rsa～～の文字列をコピーします。
 
-puttykey�t�H���_��id_rsa.pub�Ƃ����t�@�C�����ł����ۑ����܂��B
-���ꂪ���J���ł��B
+puttykeyフォルダにid_rsa.pubというファイル名でこれを保存します。
+これが公開鍵です。
 
-�����āAGitHub��id_rsa.pub�i���J���j��o�^���܂��B
-���J���̓o�^�ɂ̓p�X���[�h���͂��K�v�ł��B
-GitHub�Ƀ��O�C������Ƃ��̃p�X���[�h�ł��B
+続いて、GitHubにid_rsa.pub（公開鍵）を登録します。
+公開鍵の登録にはパスワード入力が必要です。
+GitHubにログインするときのパスワードです。
 
