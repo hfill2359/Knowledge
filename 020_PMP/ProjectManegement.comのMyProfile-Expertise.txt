@@ -1,0 +1,108 @@
+Expertise
+専門知識
+
+As a project manager, you know how complex your job is.
+プロジェクトマネージャーとして、あなたは仕事の複雑さを知っていると思います。
+Everyone has their strengths, and each project manager develops strengths and expertise in certain areas more than others.
+誰もが自分の強みを持ち、各プロジェクトマネージャーは特定の分野で強みと専門知識を伸ばしています。
+Use this space to tell everyone where your most prized PM skills lie.
+このスペースを使用して、あなたの最も重んじているPMスキルがどこにあるのかを皆に伝えましょう。
+
+
+Pick specific stages, steps or tasks from our JPACE process WBS on the left and describe your abilities and strengths on the right.
+左側で、特定の私たちのJPACEプロセスWBSからのステージ、ステップまたはタスクを選び、
+右側に、あなたの能力と強みを記述してください。
+Mention project examples, relevant training or other qualifications, or share a tip or trick that's worked for you.
+プロジェクトの例、関連する訓練またはその他の資格を上げてください。
+またはそれに作用するヒントや仕掛けを共有してください。
+Feel free to come back to this at any point to add more skills to your list.
+あなたのリストにスキルを追加するには、いつでもこれに戻りましょう。
+
+
+Stage: Justify Project  プロジェクトの立案理由を明確にする
+  Step: Create Business Case  ビジネスケースを作成する
+    Task: Align Deliverables with Strategic Business Objectives  成果物を戦略的ビジネス目標に合わせる
+    Task: Enroll Sponsors  スポンサーを名簿に登録する
+    Task: Quantify Financial and Organizational Benefits  財務および組織のメリットを定量化する
+    Task: Identify Project Team Member Requirements and Critical Knowledge Sources  プロジェクトチームのメンバー要件と重要な知識源を特定する
+    Task: Determine Key Risk Factors and Failure indicators  主要なリスク要因と障害指標の決定
+    Task: Develop Project Assumptions  プロジェクトの前提条件を策定する
+    Task: Estimate Capital and Operational Costs  資本コストと運用コストの見積り
+    Task: Determine Return on Investment(ROI)  投資収益率（ROI）を決定する
+    Task: Document Business Case  ビジネスケースをドキュメント化する
+  Step: Present Business Case  ビジネスケースをプレゼンテーションする
+    Task: Prepare for Business Case Presentation  ビジネスケースのプレゼンテーションを準備する
+    Task: Review and Refine Presentation with Sponsors  スポンサーによるプレゼンテーションのレビューと改善
+    Task: Present Business Case for Project Approval and Funding  プロジェクト承認と資金調達のためにビジネスケースをプレゼンテーションする
+Stage: Plan Project  プロジェクトを計画する
+  Step: Define Project  プロジェクトを定義する
+    Task: Determine Project Objectives  プロジェクトの目的を決定する
+    Task: Define Project Scope  プロジェクトスコープを定義する
+    Task: Define Project Products  プロジェクトの成果物を定義する
+    Task: Determine Project Constraints  プロジェクトの制約を決定する
+    Task: Select Project Approach  プロジェクトのアプローチを選択する
+    Task: Determine Project Standards  プロジェクト標準を決定する
+    Task: Assess Project Risks  プロジェクトリスクを評価する
+  Step: Make Project Plan  プロジェクト計画を作成する
+    Task: Define Work Breakdown Structure  WBSを定義する
+    Task: Determine Activity Dependencies  アクティビティの依存関係を特定する
+    Task: Determine Project Organization  プロジェクト組織を決定する
+    Task: Estimate Effort  工数を見積もる
+    Task: Allocate Resources  リソースを割り当てる
+    Task: Schedule Activities  アクティビティを計画する
+    Task: Develop Budget  予算を組む
+    Task: Refine Project Risk Assessment  プロジェクトのリスクアセスメントを改善する
+  Step: Obtain Project Plan Approval  プロジェクト計画承認を得る
+    Task: Assemble Project Plan  プロジェクト計画を組み立てる
+    Task: Present Project Plan  プロジェクト計画をプレゼンテーションする
+    Task: Agree to Project Plan  プロジェクト計画に合意する
+Stage: Activate Project  プロジェクトを開始する
+  Step: Publicize Project  プロジェクトを公表する
+    Task: Inform Stakeholders  ステークホルダーに知らせる
+    Task: Brief Participants  関係者に説明する
+    Task: Set Expectations  （ステークホルダーの）期待を設定する
+  Step: Equip Project  プロジェクトに備える
+    Task: Acquire Facilities  設備（手法・技量）を得る
+    Task: Install Equipment  設備（施設・機材）を設置する
+    Task: Check Equipment and Facilities  設備（手法・技量）、設備（施設・機材）をチェックする
+  Step: Train Project Team  プロジェクトチームをトレーニングする
+    Task: Identify Training Needs  必要なトレーニングを特定する
+    Task: Identify Training Options  任意のトレーニングを特定する
+    Task: Schedule Training  トレーニングを計画する
+    Task: Obtain Training  トレーニングを受ける
+Stage: Control Project  プロジェクトをコントロールする
+  Step: Assign Project Tasks  プロジェクトタスクを割り当てる
+    Task: Resolve Resource Conflicts  リソースの競合を解決する
+    Task: Coordinate Shared Objects  共有物を調整する
+    Task: Monitor Open Issues  未解決の問題を監視する
+    Task: Obtain Resources  リソースを入手する
+    Task: Assign Resources to Activities  リソースをアクティビティに割り当てる
+  Step: Motivate Project Participants  プロジェクト関係者を動機づけする
+    Task: Promote Individual Development  個々の開発を促進する
+    Task: Create Incentives for Teamwork  チームワークのためのインセンティブを作る
+    Task: Monitor Performance  パフォーマンスを監視する
+    Task: Acknowledge Performance  パフォーマンスを確認し、感謝する
+  Step: Track Project Progress  プロジェクトの進捗状況を追跡する
+    Task: Assess Project State  プロジェクトの状態を評価する
+    Task: Diagnose Situation  状況を診断する
+    Task: Determine Corrective Actions  是正措置を決定する
+    Task: Report Project Status to Sponsor  スポンサーへプロジェクト状況を報告する
+  Step: Revise Project Plan  プロジェクト計画を見直す
+    Task: Evaluate Alternatives  代替案を評価する
+    Task: Assess Project Risks  プロジェクトリスクを評価する
+    Task: Prepare Plan Revisions  改版計画を準備する
+    Task: Obtain Approval for Revisions  改版の承認を得る
+Stage: End Project  プロジェクトを終わる
+  Step: Prepare Completion Report  完了報告書を作成する
+    Task: Summarize Project Results  プロジェクト結果を要約する
+    Task: Identify Lessons Learned  教訓を特定する
+    Task: Collect Project Metrics  プロジェクトメトリックを収集する
+  Step: Turn Over Results  結果を振り返る
+    Task: Archive Project Products  プロジェクト成果物を記録する
+    Task: Identify Reusable Objects  再利用可能なオブジェクトを特定する
+    Task: Accept Project Results  プロジェクト結果を受け入れる
+  Step: Release Project Resources  プロジェクトリソースを解放する
+    Task: Review Resource Performance  リソースのパフォーマンスをレビューする
+    Task: Perform Final Accounting  最終会計を実行する
+    Task: Monitor Personnel Reassignment  人事異動を監視する
+
