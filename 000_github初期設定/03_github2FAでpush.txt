@@ -1,0 +1,10 @@
+Git Bashを起動して、以下のコマンドを実行。
+> git push origin master
+
+表示されたダイアログにIDとGitHubのwebで作ったtokenを入力する。
+
+---------------
+tokenの作り方
+---------------
+1. Github→Settings→Personal access token
+2. Generate new tokenでtokenを生成
