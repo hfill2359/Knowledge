@@ -8,3 +8,7 @@ tokenの作り方
 ---------------
 1. Github→Settings→Personal access token
 2. Generate new tokenでtokenを生成
+
+
+上記の操作の後、TortoiseGitを使ってみたがpushの実行ができた。
+最初だけ設定すればいいっぽい。
