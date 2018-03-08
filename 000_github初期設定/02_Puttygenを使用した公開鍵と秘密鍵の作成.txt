@@ -1,3 +1,7 @@
+2段階認証でtokenを使ってアクセスする場合は以下の作業は不要。
+
+-------------
+
 C:\repo\puttykey フォルダを作成します。
 
 TortoiseGit（ https://tortoisegit.org/ ）をインストールしていれば一緒に

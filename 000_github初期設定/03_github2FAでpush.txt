@@ -1,4 +1,4 @@
-Git Bashを起動して、以下のコマンドを実行。
+Git Bashを起動して、以下のコマンドを実行、またはTortoiseGitでプッシュする。
 > git push origin master
 
 表示されたダイアログにIDとGitHubのwebで作ったtokenを入力する。
