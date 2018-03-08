@@ -1,4 +1,5 @@
 http://msysgit.github.io/
+-> https://gitforwindows.org/
 
 スタートメニューから Git Bash を実行します。
 これから Git の設定を行います。設定はコマンドラインで実行します。

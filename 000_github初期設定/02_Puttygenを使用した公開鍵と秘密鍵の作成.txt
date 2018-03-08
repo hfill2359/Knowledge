@@ -1,6 +1,6 @@
 C:\repo\puttykey フォルダを作成します。
 
-TortoiseGitをインストールしていれば一緒に
+TortoiseGit（ https://tortoisegit.org/ ）をインストールしていれば一緒に
 Puttygenがインストールされているはずなので、起動します。
 
 SSH2-RSAが選択されているのを確認し、Generateをクリックします。

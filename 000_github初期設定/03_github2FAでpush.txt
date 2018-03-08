@@ -6,7 +6,7 @@ Git Bashを起動して、以下のコマンドを実行。
 ---------------
 tokenの作り方
 ---------------
-1. Github→Settings→Personal access token
+1. Github -> Settings -> Developer settings -> Personal access tokens
 2. Generate new tokenでtokenを生成
 
 
