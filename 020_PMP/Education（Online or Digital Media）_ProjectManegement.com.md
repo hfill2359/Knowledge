@@ -1,10 +1,10 @@
-https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm
+# PDU取得にProjectManagement.comを利用しよう
 
-Freeのものも2017/3/30時点で82個ある。
-PMI credentials でサインアップすると自動でPDUを申請してくれるようになる。
+- [ProjectManagement.com -> webinars](https://www.projectmanagement.com/Webinars/webinarMainOnDemand.cfm)
 
-下記の記事によると自動更新は視聴から3日くらいかかるみたい。
-http://siwon-g.hateblo.jp/category/PMP
+- PDUの取得について
+	- Freeのものも2017/3/30時点で82個ある。
+	- PMI credentials でサインアップすると自動でPDUを申請してくれるようになる。
 
-
+- [Web記事](http://siwon-g.hateblo.jp/category/PMP)によると自動更新は視聴から3日くらいかかるみたい。
 
