@@ -21,7 +21,7 @@
 	- あなたのリストにスキルを追加するには、いつでもこれに戻りましょう。
 
 
-# ProjectManagement.comの MyProfile - Expertise に関する記入例と日本語訳
+# ProjectManagement.comの MyProfile - Expertise の日本語訳
 
 - Stage: Justify Project  プロジェクトの立案理由を明確にする
 	- Step: Create Business Case  ビジネスケースを作成する
